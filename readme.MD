@@ -18,4 +18,8 @@ cd /здесь укажите путь до директории с проект
 ```
 mvn clean package
 ```
+6) Для проверки задания №1 на поиск багов по скриншоту перейдите по ссылке 
+```
+https://docs.google.com/spreadsheets/d/12D6RC9pttozlQuW2soMuwe1diQ9-4OMQeZ3-MlZYWs0/edit?usp=sharing
+```
 
